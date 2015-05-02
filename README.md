@@ -34,7 +34,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-above is summarised [hear](http://ichonol.hatenablog.com/entry/2015/03/01/201941)
+above is summarised [here](http://ichonol.hatenablog.com/entry/2015/03/01/201941)
 
 these blog is written by Japanese.
 
