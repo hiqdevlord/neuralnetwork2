@@ -6,7 +6,8 @@ Summary:
 
 
 Using these learning system, I've made abbreviate game which called break-out.
-In learning Process, we adopt reinforcement-learning toward neuralnetwork using backpropagation.
+
+In learning Process, I adopt reinforcement-learning toward neuralnetwork using backpropagation.
 
 details is [here](http://ichonol.hatenablog.com/entry/2014/10/03/105742), [here](http://ichonol.hatenablog.com/entry/2014/10/19/034937), and [here](http://ichonol.hatenablog.com/entry/2015/02/19/200311).
 
