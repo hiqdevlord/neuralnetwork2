@@ -12,15 +12,18 @@ details is [here](http://ichonol.hatenablog.com/entry/2014/10/03/105742), [here]
 
 
 early stage(learning count = 10)
+
 <a href="https://www.youtube.com/watch?v=yAagcGwM5Kg" target="_blank"><img src="https://github.com/etsuyoshi/neuralnetwork2/blob/master/Neuralnetwork/early-stage.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 middle stage(learning count = 200)
+
 <a href="https://www.youtube.com/watch?v=VVFxyx64W94" target="_blank"><img src="https://github.com/etsuyoshi/neuralnetwork2/blob/master/Neuralnetwork/middle-stage.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 late stage(learning count = 10000)
+
 <a href="https://www.youtube.com/watch?v=js2PCvTUXZY" target="_blank"><img src="https://github.com/etsuyoshi/neuralnetwork2/blob/master/Neuralnetwork/middle-stage.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
