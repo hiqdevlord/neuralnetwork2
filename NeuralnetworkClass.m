@@ -304,7 +304,7 @@ int interval_output;
         //焼きなまし法：
         learningRate = fabsf((float)_supervisor - (float)_output);
         
-        //個別パラメータについては
+        //個別パラメータについては調整済
         //10回に一度探索ノイズを与える:本当は学習状況におうじて小さくしないと発散してしまう
         if(arc4random() % 10 == 0){
             learningRate += ((float)(arc4random() % 100)) / 1000.f;
