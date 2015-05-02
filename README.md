@@ -30,7 +30,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 【late stage(learning count = 10000)】
 
-<a href="https://www.youtube.com/watch?v=js2PCvTUXZY" target="_blank"><img src="https://github.com/etsuyoshi/neuralnetwork2/blob/master/Neuralnetwork/middle-stage.png" 
+<a href="https://www.youtube.com/watch?v=js2PCvTUXZY" target="_blank"><img src="https://github.com/etsuyoshi/neuralnetwork2/blob/master/Neuralnetwork/late-stage.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
