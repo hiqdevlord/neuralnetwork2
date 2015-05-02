@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		2A12A775196B9341004758C5 /* NeuronView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A12A774196B9341004758C5 /* NeuronView.m */; };
 		2A30DF0B1AA1EAEF006860BA /* PingPongViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A30DF0A1AA1EAEF006860BA /* PingPongViewController.m */; };
+		2A7ABE551AF548B70088445B /* allSystem.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A7ABE541AF548B70088445B /* allSystem.png */; };
 		34833B1018B1CC6F001256A4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 34833B0F18B1CC6F001256A4 /* Foundation.framework */; };
 		34833B1218B1CC6F001256A4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 34833B1118B1CC6F001256A4 /* CoreGraphics.framework */; };
 		34833B1418B1CC6F001256A4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 34833B1318B1CC6F001256A4 /* UIKit.framework */; };
@@ -41,6 +42,7 @@
 		2A12A774196B9341004758C5 /* NeuronView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NeuronView.m; sourceTree = "<group>"; };
 		2A30DF091AA1EAEF006860BA /* PingPongViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PingPongViewController.h; sourceTree = "<group>"; };
 		2A30DF0A1AA1EAEF006860BA /* PingPongViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PingPongViewController.m; sourceTree = "<group>"; };
+		2A7ABE541AF548B70088445B /* allSystem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = allSystem.png; sourceTree = "<group>"; };
 		34833B0C18B1CC6F001256A4 /* Neuralnetwork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Neuralnetwork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34833B0F18B1CC6F001256A4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		34833B1118B1CC6F001256A4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -121,6 +123,7 @@
 		34833B1518B1CC6F001256A4 /* Neuralnetwork */ = {
 			isa = PBXGroup;
 			children = (
+				2A7ABE541AF548B70088445B /* allSystem.png */,
 				34833B1E18B1CC6F001256A4 /* AppDelegate.h */,
 				34833B1F18B1CC6F001256A4 /* AppDelegate.m */,
 				34833B2118B1CC6F001256A4 /* Main.storyboard */,
@@ -245,6 +248,7 @@
 			files = (
 				34833B2818B1CC6F001256A4 /* Images.xcassets in Resources */,
 				34833B1A18B1CC6F001256A4 /* InfoPlist.strings in Resources */,
+				2A7ABE551AF548B70088445B /* allSystem.png in Resources */,
 				34833B2318B1CC6F001256A4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
